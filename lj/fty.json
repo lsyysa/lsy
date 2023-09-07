@@ -43,10 +43,10 @@
       "ext": "./lib/biliych.json"
     },
     {
-      "key": "csp_Wogg",
+      "key": "csp_WoGG",
       "name": "👽玩偶┃4K",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_WoGG",
       "jar":"./fm.jar",
       "searchable": 1,
       "changeable": 0
