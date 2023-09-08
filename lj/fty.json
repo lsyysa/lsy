@@ -51,7 +51,8 @@
       "api": "csp_WoGG",
       "jar":"./fm.jar",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
     },
     {
         "key": "drpy_js_小纸条",
@@ -60,7 +61,8 @@
         "api": "./lib/小纸条.js",
         "searchable": 1,
         "searchable": 1,
-        "changeable": 1
+        "changeable": 1,
+	"ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
     },
     {
         "key": "csp_cms_毛毛子",
@@ -72,6 +74,38 @@
         "filterable": 1,
         "categories": ["4K","电影","连续剧","综艺","动漫"]
     },
+            {
+            "key": "csp_wogg_cli",
+            "name": "俊于 | 玩偶[T4]",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+            "timeout": 30
+        },
+        {
+            "key": "小纸条_cli",
+            "name": "俊于 | 小纸条[T4]",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+            "timeout": 30
+        },
+        {
+            "key": "荐片",
+            "name": "俊于 | 荐片[T4]",
+            "type": 4,
+            "api": "http://home.jundie.top:9520/spider/csp_JP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 30
+        },
     {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1}, 
     {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./XYQ.jar","ext":"http://www.xb6v.com"},
     {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQ.jar"},
@@ -322,16 +356,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.6080yy3.com/"
-    },
-    {
-      "key": "csp_BuLei",
-      "name": "💣布雷┃直连",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"
     },
     {
                 "key": "drpy_js_360影视",
@@ -634,8 +658,9 @@
     "changeable": 1,
     "quickSearch": 0,
     "filterable": 0,
-    "api": "./lib/lf_pushagent_min.js"
-},
+    "api": "./lib/lf_pushagent_min.js",
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+    },
      {
       "key": "美食",
       "name": "口水┃美食合集",
@@ -728,16 +753,48 @@
     }
   ],
   "parses": [
-    {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
+  {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+            {
+            "name": "巧技解析",
+            "type": 1,
+            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
     {"name":"37","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"js","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
