@@ -52,7 +52,7 @@
       "jar":"./fm.jar",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"
+      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
     },
     {
         "key": "drpy_js_小纸条",
@@ -93,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+            "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt",
             "timeout": 30
         },
         {
