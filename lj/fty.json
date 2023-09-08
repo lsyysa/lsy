@@ -52,7 +52,7 @@
       "jar":"./fm.jar",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt?token=GHSAT0AAAAAACHIVKJRAGYDHEQRBN7NKRVYZH27QXA"
+      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
     },
     {
         "key": "csp_cms_毛毛子",
@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt?token=GHSAT0AAAAAACHIVKJRAGYDHEQRBN7NKRVYZH27QXA",
+            "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt",
             "timeout": 30
         },
         {
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt?token=GHSAT0AAAAAACHIVKJRAGYDHEQRBN7NKRVYZH27QXA",
+            "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt",
             "timeout": 30
         },
         {
