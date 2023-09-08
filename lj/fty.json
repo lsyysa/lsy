@@ -55,16 +55,6 @@
       "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
     },
     {
-        "key": "drpy_js_小纸条",
-        "name": "纸条",
-        "type": 3,
-        "api": "./lib/小纸条.js",
-        "searchable": 1,
-        "searchable": 1,
-        "changeable": 1,
-	"ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
-    },
-    {
         "key": "csp_cms_毛毛子",
         "name": "毛子",
         "type": 1,
