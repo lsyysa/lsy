@@ -8,7 +8,7 @@
       "type":3,
       "style": {"type": "rect","ratio":1.33},
       "api":"csp_Wogg",
-      "ext":"http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://tvfan.xxooo.cf/"
+      "ext":"https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/PG/tv/open_token.json"
     },
     {
       "key": "drpy_js_4KHDR",
@@ -153,7 +153,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tv/open_token.json"
+      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/PG/tv/open_token.json"
     }
   ],
   "parses": [
