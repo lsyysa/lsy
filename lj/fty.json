@@ -52,7 +52,7 @@
       "jar":"./fm.jar",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
     },
     {
         "key": "csp_cms_毛毛子",
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt",
+            "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt",
             "timeout": 30
         },
         {
@@ -1309,17 +1309,6 @@
       "host": "*",
       "rule": [
         "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-      ]
-    },
-    {
-      "name": "bf",
-      "hosts": [
-        "bfzy",
-        "s5.bfzycdn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
