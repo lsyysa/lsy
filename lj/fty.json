@@ -4,7 +4,7 @@
   "sites": [
     {"key": "路飞.搜索","name": "路飞搜索","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/ss.js","ext": ""},
     {"key": "路飞转点播","name": "路飞_MV","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt","viewType": 2},
-    {"key": "路飞ikanbot","name": "路飞_爱看","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/ikanbot.js","ext": ""},
+    {"key": "路飞ikanbot","name": "路飞_爱看","type": 3,"api": "py_ikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_ikan.py","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
     {"key": "路飞.磁力","name": "路飞🧲磁力搜","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/cili.js","ext": "18+"},
     {"key":"py_cctv",
      "name": "🔥中央┃CCTV",
@@ -14,12 +14,6 @@
 	"quickSearch": 0,
 	"filterable": 0,
 	"ext": "./lib/py_cctv.py"},
-      {
-      "key": "爱看Bot",
-      "name": "🏇┃爱看┃Bot",
-      "type": 3,
-      "api": "./lib/ikanbot_open.js"
-      },
 	{
        "key":"星影1080cms",
        "name":"星影1080 | APP",
@@ -119,12 +113,6 @@
       "quickSearch": 1,
       "jar":"./ftymg.jar",
       "changeable": 0
-    },
-    {
-      "key": "subaibai",
-      "name": "素白白[cat]",
-      "type": 3,
-      "api": "./lib/subaibai_open.js"
     },
     {
       "key": "量子",
