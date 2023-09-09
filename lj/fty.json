@@ -18,7 +18,7 @@
       "key": "爱看Bot",
       "name": "🏇┃爱看┃Bot",
       "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/Bot.js"
+      "api": "./lib/ikanbot_open.js"
       },
 	{
        "key":"星影1080cms",
@@ -119,6 +119,12 @@
       "quickSearch": 1,
       "jar":"./ftymg.jar",
       "changeable": 0
+    },
+    {
+      "key": "subaibai",
+      "name": "素白白[cat]",
+      "type": 3,
+      "api": "./lib/subaibai_open.js"
     },
     {
       "key": "量子",
