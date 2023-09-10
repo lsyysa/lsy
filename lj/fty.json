@@ -268,11 +268,11 @@
       "key": "陌陌",
       "name": "🍄蘑菇┃直连",
       "type": 3,
-      "api": "csp_MmYs",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./ftymg.jar",
       "changeable": 1,
+      "ext": "https://www.kuin.one/api.php/app/",
       "timeout": 30
     },
     {
@@ -361,7 +361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://ttsp.live/api.php/app/",
+      "ext": "http://mp4.ghlyys.com/api.php/app/",
       "timeout": 30
     },
     {
