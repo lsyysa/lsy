@@ -154,12 +154,20 @@
       "filterable": 1,
       "timeout": 30
     },
-   {
+    
+    {
          "key": "dadou",
-         "name": "大豆高清",
+         "name": "大豆|高清",
          "type": 1,
          "api": "https://www.dadou.cm/api.php/provide/vod/"
-      },
+    },
+    {
+        "key": "ytvip",
+        "name": "影探|高清",
+        "type": 3,
+        "api": "./lib/yt.js",
+        "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+    },
     {
       "key": "csp_biubiu_剧白白-蓝光",
       "name": "🥒剧白白┃蓝光",
