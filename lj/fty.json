@@ -18,14 +18,6 @@
       "viewType": 2
     },
     {
-      "key": "路飞ikanbot",
-      "name": "路飞_爱看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "路飞.磁力",
       "name": "路飞🧲磁力搜",
       "type": 3,
