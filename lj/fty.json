@@ -356,13 +356,13 @@
     },
     {
       "key": "率率",
-      "name": "🍄陌陌┃App",
+      "name": "🍄率率┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/",
+      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/",
       "timeout": 30
     },
     {
