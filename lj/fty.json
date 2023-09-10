@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "jar": "./fm.jar",
+      "jar": "https://fongmi.cachefly.net/mymine/CatVodTVSpider/main/jar/custom_spider.jar",
       "ext": "https://www.dadou.cm/api.php/provide/vod/"
     },
     {
