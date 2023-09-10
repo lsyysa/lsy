@@ -158,12 +158,11 @@
       "key": "dadou",
       "name": "大豆|高清",
       "type": 1,
-      "api": "csp_AppYsV2",
+      "api": "https://www.dadou.cm/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://www.dadou.cm/api.php/provide/vod/"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
