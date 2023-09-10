@@ -60,8 +60,12 @@
       "name": "🅱哔哔┃演唱会",
       "type": 3,
       "api": "csp_Bili",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
       "ext": "./lib/biliych.json"
@@ -261,7 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "jar": "./ftymg.jar",
-      "changeable": 0,
+      "changeable": 1,
       "timeout": 30
     },
     {
@@ -362,8 +366,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/",
-      "timeout": 30
+      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
     },
     {
       "key": "酷酷",
