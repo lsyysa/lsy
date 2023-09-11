@@ -351,7 +351,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/饭团影视.json",
-      "jar": "./XYQ.jar",
+      "jar": "./custom_spider.jar",
       "timeout": 30
     },
     {
