@@ -162,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/乐猪TV.json",
+      "ext": "./lib/乐猪TV.json",
       "jar": "./XYQ.jar"
     },
     {
