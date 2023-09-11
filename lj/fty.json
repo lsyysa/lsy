@@ -41,7 +41,7 @@
       "api": "https://www.xy1080.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "timeout": 30
+      "timeout": 15
     },
     {
       "key": "贱贱",
@@ -53,7 +53,7 @@
       "playerType": "1",
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js",
-      "timeout": 30
+      "timeout": 15
     },
     {
       "key": "csp_Biliych",
@@ -107,7 +107,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./XYQ.jar",
-      "timeout": 30
+      "timeout": 15
     },
     {
       "key": "两个BT",
@@ -120,7 +120,7 @@
       "changeable": 1,
       "playerType": 1,
       "ext": "https://drpy.cainisi.cf/js/两个BT.js",
-      "timeout": 30
+      "timeout": 15
     },
     {
       "key": "csp_wogg_cli",
@@ -174,8 +174,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/一龙高清影视.json",
-      "jar": "./XYQ.jar",
-      "timeout": 30
+      "jar": "./custom_spider.jar",
+      "timeout": 15
     },
     {
          "key": "dadou",
@@ -845,7 +845,7 @@
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/有声小说吧.js",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
@@ -961,11 +961,11 @@
       "name": "👶┃宝宝┃合集",
       "type": 3,
       "api": "py_baby",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/baby.py",
-      "timeout": 30
+      "timeout": 15
     },
     {
       "key": "dr_兔小贝",
@@ -973,8 +973,8 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0,
       "timeout": 30
     },
@@ -983,8 +983,8 @@
       "name": "📚少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/少儿教育.json",
       "timeout": 30
@@ -994,8 +994,8 @@
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小学课堂.json",
       "timeout": 30
@@ -1005,8 +1005,8 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/初中课堂.json",
       "timeout": 30
@@ -1016,8 +1016,8 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/高中课堂.json",
       "timeout": 30
