@@ -1646,6 +1646,14 @@
     }
   ],
   "lives": [
+   {
+      "name": "0",
+      "type": 0,
+      "url": "./lib/tvbs.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "type": 0,
       "pass": true,
@@ -1654,14 +1662,6 @@
       "logo": "http://epg.51zmt.top:8000/{logo}",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "playerType": 1
-    },
-    {
-      "name": "0",
-      "type": 0,
-      "url": "./lib/tvbs.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "TV",
