@@ -351,6 +351,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/饭团影视.json",
+      "jar": "./XYQ.jar",
       "timeout": 30
     },
     {
@@ -404,7 +405,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext":"./lib/鸭奈飞影视.json"},
+      "ext":"./lib/鸭奈飞影视.json",
+      "jar": "./XYQ.jar",
       "timeout": 30
     },
     {
