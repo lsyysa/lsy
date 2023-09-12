@@ -136,7 +136,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/LIBVIO.js"
+      "ext": "https://drpy.cainisi.cf/js/LIBVIO.js"
     },
     {
       "key": "csp_DiDuan",
