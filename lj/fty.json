@@ -166,18 +166,6 @@
       "jar": "./XYQ.jar"
     },
     {
-      "key": "csp_XYQHiker_一龙高清影视",
-      "name": "一龙高清影视(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/一龙高清影视.json",
-      "jar": "./custom_spider.jar",
-      "timeout": 15
-    },
-    {
          "key": "dadou",
          "name": "大豆|高清",
          "type": 1,
@@ -195,6 +183,17 @@
       "timeout": 30
     },
     {
+      "key": "LIBVIO影视",
+      "name": "LIBVIO┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./lib/LIBVIO.js"
+    },
+    {
       "key": "csp_DiDuan",
       "name": "⏮️低端┃直连",
       "type": 3,
@@ -203,6 +202,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
+    },
+    {
+      "key": "磁力熊",
+      "name": "🧲磁力熊",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./lib/磁力熊[磁].js"
     },
     {
       "key": "csp_New6v",
