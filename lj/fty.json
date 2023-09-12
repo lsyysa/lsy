@@ -6,12 +6,12 @@
       "key": "豆瓣",
       "name": "豆瓣┃推荐",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/drpy.js"
+      "ext": "https://drpy.cainisi.cf/js/drpy.js"
     },
     {
       "key": "路飞.搜索",
