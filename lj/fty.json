@@ -627,7 +627,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./lib/360影视.json",
-      "jar": "https://tvbox.cainisi.cf/jar/fty0827.jar;md5;0b81c0ac4917ca94b8446758d09227e5",
       "timeout": 15
     },
     {
