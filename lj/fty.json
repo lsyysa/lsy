@@ -1696,13 +1696,6 @@
       "playerType": 1
     },
     {
-      "name": "TV",
-      "type": 0,
-      "url": "./lib/global.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "txt",
       "type": 0,
       "url": "./TXT.txt",
