@@ -1609,6 +1609,12 @@
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
+    {"name":"极速",
+     "hosts":["vip.js","hd.js"],
+     "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+     "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+    },
+    {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {
       "name": "bf",
       "hosts": [
