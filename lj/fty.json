@@ -1664,6 +1664,20 @@
     }
   ],
   "lives": [
+    {
+      "name": "直播1",
+      "type": 0,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/js/zb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
    {
       "name": "0",
       "type": 0,
