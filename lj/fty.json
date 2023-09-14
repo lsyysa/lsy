@@ -933,14 +933,12 @@
     },
     {
       "key": "push_agent",
-      "name": "推送 | lf_push",
+      "name": "🛴手机┃推送",
       "type": 3,
+      "api": "csp_Push",
       "searchable": 0,
-      "changeable": 1,
       "quickSearch": 0,
-      "filterable": 0,
-      "api": "./lib/lf_pushagent_min.js",
-      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt"
+      "ext": "https://ghproxy.com/https://github.com/lsyysa/lsy/raw/main/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "美食",
