@@ -1710,19 +1710,25 @@
       "type":0,
       "url":"http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType":1,
+      "boot": true,
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"},
     {
       "name": "直播1",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt",
+      "playerType":1,
+      "boot": true,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 5
     }, 
     {
       "name": "直播2",
       "type": 0,
       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/js/zb.txt",
+      "playerType":1,
+      "boot": true,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1731,6 +1737,7 @@
       "type": 0,
       "url": "./lib/tvbs.txt",
       "playerType": 1,
+      "boot": true,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1738,6 +1745,7 @@
       "type": 0,
       "pass": true,
       "name": "影子TV",
+      "boot": true,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt",
       "logo": "http://epg.51zmt.top:8000/{logo}",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
@@ -1748,6 +1756,7 @@
       "type": 0,
       "url": "./TXT.txt",
       "playerType": 1,
+      "boot": true,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1756,6 +1765,7 @@
       "name": "cainisi",
       "type": 0,
       "url": "https://tvbox.cainisi.cf/TV",
+      "boot": true,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/108.0.0.0 Safari/537.36",
@@ -1766,6 +1776,7 @@
       "type": 0,
       "url": "./live2.txt",
       "ua": "okhttp/3.12.13",
+      "boot": true,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
