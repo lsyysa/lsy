@@ -103,9 +103,9 @@ var rule = {
     headers:{
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
-        // "Cookie":"$bili_cookie"
+         "Cookie":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/cookie.txt"
         // "Cookie":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
-        "Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
+        //"Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
     },
     timeout:5000,
     limit:8,
