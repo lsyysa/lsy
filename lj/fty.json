@@ -1698,6 +1698,14 @@
     }
   ],
   "lives": [
+    {"name":"初秋语•综合",
+    "type":0,
+    "url":"./list.txt",
+    "playerType":1,
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png",
+    "timeout": 5
+    },
     {"name":"Ray•综合",
       "type":0,
       "url":"https://xhdwc.tk/tvlive.txt",
