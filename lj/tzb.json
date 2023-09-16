@@ -21,6 +21,18 @@
       "ext": ""
     },
     {
+      "key": "drpy_js_直播大全",
+      "name": "电视 | 直播大全[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/live2cms.js",
+      "recordable": 0,
+      "style": {
+        "type": "oval"
+      },
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/live2mv_data.json"
+    },
+    {
       "key": "py_cctv",
       "name": "🔥中央┃CCTV",
       "type": 3,
@@ -87,13 +99,13 @@
     },
     {
       "key": "csp_Ikanbot",
-      "name": "👾爱看┃Ikanbot",
+      "name": "爱看┃Ikanbot",
       "type": 3,
-      "api": "csp_Ikanbot",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./XYQ.jar",
+      "changeable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ikanbot3.js",
       "timeout": 15
     },
     {
@@ -287,6 +299,13 @@
         "综艺",
         "动漫"
       ]
+    },
+    {
+      "key": "drpy_js_大师兄影视",
+      "name": "影视 | 大师兄影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大师兄影视.js"
     },
     {
       "key": "量子",
@@ -716,6 +735,55 @@
       "timeout": 30
     },
     {
+      "key": "drpy_js_我的哔哩",
+      "name": "弹幕 | 哔哩合集[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/我的哔哩.js"
+    },
+    {
+      "key": "drpy_js_哔哩直播",
+      "name": "弹幕 | 哔哩直播[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/哔哩直播.js"
+    },
+    {
+      "key": "drpy_js_哔哩影视",
+      "name": "弹幕 | 哔哩影视[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/哔哩影视.js"
+    },
+    {
+      "key": "drpy_js_JustLive",
+      "name": "弹幕 | JustLive[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/JustLive.js"
+    },
+    {
       "key": "19",
       "name": "👀┃19┃视频",
       "type": 1,
@@ -764,6 +832,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 30
+    },
+    {
+      "key": "drpy_js_相声随身听",
+      "name": "相声 | 相声随身听[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/相声随身听.js"
     },
     {
       "key": "csp_Yj1211",
@@ -990,16 +1066,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./fm.jar",
-      "filterable": 1
-    },
-    {
       "key": "py_baby",
       "name": "👶┃宝宝┃合集",
       "type": 3,
@@ -1009,6 +1075,18 @@
       "filterable": 1,
       "ext": "./lib/baby.py",
       "timeout": 15
+    },
+    {
+      "key": "drpy_js_有声绘本网",
+      "name": "少儿 | 有声绘本[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"
     },
     {
       "key": "dr_兔小贝",
@@ -1698,14 +1776,14 @@
     }
   ],
   "lives": [
-     {"name":"测试•综合",
+     {"name":"xx•综合",
       "type":0,
       "url":"https://152.69.217.32/IPTV/zb.txt",
       "playerType":1,
       "boot": true,
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 3
+      "timeout": 5
     },
     {"name":"初秋语•综合",
     "type":0,
