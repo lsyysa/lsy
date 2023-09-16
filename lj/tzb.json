@@ -1709,7 +1709,7 @@
     },
     {"name":"初秋语•综合",
     "type":0,
-    "url":"./list.txt",
+    "url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
     "boot": true,
     "playerType":1,
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
