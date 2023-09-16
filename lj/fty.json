@@ -101,7 +101,7 @@
       "key": "csp_Ikanbot",
       "name": "爱看┃Ikanbot",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
