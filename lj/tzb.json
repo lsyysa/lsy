@@ -1698,6 +1698,15 @@
     }
   ],
   "lives": [
+     {"name":"测试•综合",
+      "type":0,
+      "url":"https://152.69.217.32/IPTV/zb.txt",
+      "playerType":1,
+      "boot": true,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 3
+    },
     {"name":"Ray•综合","type":0,
       "url":"https://xhdwc.tk/tvlive.txt",
       "playerType":1,
