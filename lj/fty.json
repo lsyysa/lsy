@@ -1698,7 +1698,8 @@
     }
   ],
   "lives": [
-    {"name":"Ray•综合","type":0,
+    {"name":"Ray•综合",
+      "type":0,
       "url":"https://xhdwc.tk/tvlive.txt",
       "playerType":1,
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1710,7 +1711,16 @@
       "url":"http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType":1,
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"},
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {"name":"xx•直播",
+      "type":0,
+      "url":"https://152.69.217.32/IPTV/zb.txt",
+      "playerType":1,
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 5
+    },
     {
       "name": "直播1",
       "type": 0,
