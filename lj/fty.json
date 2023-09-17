@@ -286,7 +286,7 @@
     },
      {
       "key": "csp_cms_毛毛子",
-      "name": "淘来的┃毛子",
+      "name": "采集┃毛子",
       "type": 1,
       "api": "http://ys.qtw.asia/lvdou_api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -303,7 +303,7 @@
     },
     {
       "key": "jszy",
-      "name": "极速资源 ",
+      "name": "采集 | 极速 ",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "searchable": 1,
