@@ -1,5 +1,5 @@
 {
-  "spider": "./fm.jar;md5;893cbd23ebfc96b71d63c6458c2ca9c8",
+  "spider": https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e99f254a76be4612aaf4f8e6eef5dae1",
   "sites": [
     {
       "key": "drpy_js_童趣",
