@@ -1,6 +1,6 @@
 {
   //"spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;805e97263746889cf1405e74ec9d0824",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ed5d521ad71063b99b06e9ad4c7f9bca",
   "wallpaper": "https://www.0701.gq/api/img.php",
   "sites": [
     {
@@ -447,14 +447,24 @@
       "timeout": 30
     },
     {
-      "key": "率率",
-      "name": "🍄率率┃App",
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "哈喽",
+      "name": "✌迷你库┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
       "key": "鸭奈飞",
