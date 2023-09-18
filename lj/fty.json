@@ -1728,15 +1728,16 @@
       ]
     },
     {"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {
-     "name": "极速",
-     "hosts": [
-     "jszy"
-     ],
-     "regex": [
-     "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
-     ]
-    },
+   {
+            "name": "极速广告",
+            "hosts": [
+                "jszy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {"name":"极速广告备份","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {
       "name": "bf",
