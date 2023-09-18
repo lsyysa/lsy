@@ -1,6 +1,6 @@
 {
-  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;805e97263746889cf1405e74ec9d0824",
-  //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+  //"spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;805e97263746889cf1405e74ec9d0824",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
   "wallpaper": "https://www.0701.gq/api/img.php",
   "sites": [
     {
@@ -150,6 +150,22 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/LIBVIO.js"
+    },
+    {
+     "key": "YingShi",
+     "name": "海外看影视",
+     "type": 3,
+     "api": "csp_YingShi",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "changeable": 0,
+     "url": "https://www.yingshi.tv/",
+     "style": {
+      "type": "rect",
+      "ratio": 0.8
+      },
+     "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
     },
     {
       "key": "csp_DiDuan",
@@ -1728,6 +1744,17 @@
       ]
     },
     {"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.333332",
+        "10.0099",
+        "8.1748"
+      ]
+    },
    {
             "name": "极速广告",
             "hosts": [
