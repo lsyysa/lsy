@@ -52,6 +52,8 @@
 
 {"key":"drpy_js_酷云七七","name":"影视┃酷云七七[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js","timeout":30},
 
+{"key":"modu","name":"魔都资源 ","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+
 //直连app
 
 {"key":"陌陌","name":"🍄蘑菇┃直连","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/","timeout":30},
@@ -174,6 +176,10 @@
 
 {"key":"七夜","name":"😾七夜┃搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|fhd|auto"},
 
+{"key":"19","name":"👀┃19┃视频","type":1,"api":"https://sousu.popefih902.repl.co/vod/19","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+
+{"key":"timizy","name":"甜蜜资源 ","type":1,"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+
 //
 
 {"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/我的哔哩.js"},
@@ -183,8 +189,6 @@
 {"key":"drpy_js_哔哩影视","name":"弹幕 | 哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.33},"changeable":0,"ext":"./lib/哔哩影视.js"},
 
 {"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/JustLive.js"},
-
-{"key":"19","name":"👀┃19┃视频","type":1,"api":"https://sousu.popefih902.repl.co/vod/19","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 
 //动漫/相声/听书/体育/直播资源
 
@@ -230,9 +234,9 @@
 
 {"key":"py_baby","name":"👶┃宝宝┃合集","type":3,"api":"py_baby","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/baby.py","timeout":15},
 
-{"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},
+{"key":"有声绘本网","name":"少儿┃有声绘本[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},
 
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/兔小贝.js","searchable":1,"quickSearch":1,"filterable":0,"timeout":30},
+{"key":"兔小贝","name":"📚儿童┃启蒙","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/兔小贝.js","searchable":1,"quickSearch":1,"filterable":0,"timeout":30},
 
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/少儿教育.json","timeout":30},
 
