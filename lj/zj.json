@@ -18,7 +18,7 @@
     {"key":"py_cctv","name":"🔥中央┃CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/py_cctv.py"},
 	
 	
-	{"key":"csp_WoGG","name":"👽玩偶┃4K","type":3,"api":"csp_WoGG","jar":"./fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
+    {"key":"csp_WoGG","name":"👽玩偶┃4K","type":3,"api":"csp_WoGG","jar":"./fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
 	
     {"key":"csp_wogg_cli","name":"俊于|玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
 	
@@ -46,7 +46,7 @@
 	
 	{"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","timeout":30},
 	
-    {"key":"非凡","name":"👀影视┃非凡","type":"1","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":"1","filterable":"1","changeable":"1","timeout":30,"categories":["国产剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},
+        {"key":"非凡","name":"👀影视┃非凡","type":"1","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":"1","filterable":"1","changeable":"1","timeout":30,"categories":["国产剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},
 	
 	{"key":"两个BT","name":"两个BT┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"https://drpy.cainisi.cf/js/两个BT.js","timeout":15},
 	
