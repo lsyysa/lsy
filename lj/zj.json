@@ -30,7 +30,7 @@
 
 {"key":"csp_Ikanbot","name":"爱看┃Ikanbot","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ikanbot3.js","timeout":15},
 
-{"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js","timeout":15},
+{"key":"贱贱","name":"影视┃荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js","timeout":15},
 
 {"key":"dadou","name":"大豆┃高清","type":1,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://www.dadou.cm/api.php/provide/vod/"},
 
