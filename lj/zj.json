@@ -259,7 +259,7 @@
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/高中课堂.json","timeout":30}
 
 ],
-
+  
 //解析接口
 
 "parses":[
