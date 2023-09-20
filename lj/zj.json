@@ -124,9 +124,7 @@
 
 {"key":"星星","name":"星星┃挂梯","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
 
-{"key":"影視","name":"影視","type":3,"api":"csp_YingShi","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
-
-{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
+{"key":"獨播","name":"獨播┃挂梯","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
 
 //磁力资源
 
