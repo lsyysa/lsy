@@ -118,9 +118,15 @@
 
 {"key":"csp_Xinsj","name":"🐼视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","timeout":30},
 
-{"key":"YingShi","name":"海外看┃挂梯","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"url":"https://www.yingshi.tv/","style":{"type":"rect","ratio":0.8},"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"},
+{"key":"YingShi","name":"海外看┃挂梯","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"url":"https://www.yingshi.tv/","style":{"type":"rect","ratio":0.8},"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
 
 {"key":"csp_Nbys","name":"🛫泥巴┃挂梯","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"星星","name":"星星┃挂梯","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
+
+{"key":"影視","name":"影視","type":3,"api":"csp_YingShi","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
+
+{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
 
 //磁力资源
 
