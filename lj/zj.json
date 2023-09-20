@@ -68,7 +68,7 @@
 
 {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
 
-{"key":"csp_XYQHiker_乐猪影视","name":"🐷乐猪┃影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/乐猪TV.json","jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"csp_XYQHiker_乐猪影视","name":"🐷乐猪┃影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/乐猪TV.json","jar":"./jar/XYQ.jar},
 
 {"key": "csp_fantuan","name": "🍙假饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"请求头\":\"手机\",\"简介\":\"简介：&&</p>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"vtitle text-right\\\">&&</span>\",\"线路数组\":\"javascript:void(0);&&</li>\",\"线路标题\":\">&</a>\",\"播放数组\":\"id=\\\"con_playlist&&</ul>\",\"分类\":\"电影$dianying#电视剧$dianshiju#国产剧$guocanju#综艺$zongyi#动漫$dongman#美剧$oumeiju\",\"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"},
 
