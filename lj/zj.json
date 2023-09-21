@@ -192,7 +192,7 @@
 
 //
 
-{"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/920.jar"},
+{"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/921.jar"},
   
 {"key":"drpy_js_我的哔哩","name":"弹幕┃哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/我的哔哩.js"},
 
@@ -387,14 +387,14 @@
 //电视直播
 
 "lives": [
+  
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
 
 {"name":"自启•xx","type":0,"url":"https://152.69.217.32/IPTV/zb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":5},
 
 {"name":"Global•直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
 
 {"name":"初秋语•综合","type":0,"url":"./lib/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
-
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
 
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
