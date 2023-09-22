@@ -234,7 +234,7 @@
 
 {"key":"路飞转点播","name":"路飞┃MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt","viewType":2},
 
-{"key":"csp_XBPQ_聚短视频","name":"📽聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/短视频.json"},
+{"key":"csp_XBPQ_聚短视频","name":"聚短┃视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/短视频.json"},
 
 {"key":"有声小说js","name":"有声┃小说","type":3,"api":"./lib/drpy.min.js","ext":"./lib/有声小说吧.js","searchable":1,"quickSearch":0,"filterable":0},
 
