@@ -248,7 +248,7 @@
 
 {"key":"美食","name":"口水┃美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/美食合集.json"},
 
-{"key":"csp_SMB目录","name":"SMB┃服务器","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/smb.jar","ext":"smb://Pc-20220605exca:@192.168.123.189"},
+{"key":"csp_SMB目录","name":"SMB┃服务器","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/smb.jar","ext":"smb://PC-20220605EXCA:@192.168.123.189"},
 
 //儿童合集
 
