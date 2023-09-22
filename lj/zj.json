@@ -24,7 +24,7 @@
 
 {"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","jar":"./jar/fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 
-{"key":"csp_WoGG","name":"玩偶┃pg","type":3,"api":"csp_WoGG","jar":"./jar/pg.jar","searchable":1,"changeable":0,"ext":"./open_token.json"},
+{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_WoGG","jar":"./jar/pg.jar","searchable":1,"changeable":0,"ext":"./open_token.json"},
 
 {"key":"csp_wogg_cli","name":"俊于┃玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 
@@ -244,7 +244,7 @@
 
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|auto|fhd"},
 
-{"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"./open_token.json","jar":"./jar/pg.jar;md5;02a65fda9facfe6907d4b7583cd085ff"},
+{"key":"push_agent2","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"./open_token.json","jar":"./jar/pg.jar;md5;02a65fda9facfe6907d4b7583cd085ff"},
 
 {"key":"美食","name":"口水┃美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/美食合集.json"},
 
