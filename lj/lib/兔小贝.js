@@ -14,7 +14,7 @@ var rule = {
     class_name:'儿歌&故事&国学&启蒙',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
-    推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
+    //推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
     double:true,
     limit:5,
     play_parse:true,
