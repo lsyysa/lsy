@@ -24,7 +24,7 @@
 
 {"key":"csp_WoGG","name":"玩偶┃4K","type":3,"api":"csp_WoGG","jar":"./jar/fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 
-{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar":"./jar/pg.jar","searchable":1,"changeable":0,"ext":"./open_token.json"},
+{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar":"./jar/pg.jar","searchable":1,"changeable":0,"ext":"./open_token.json$$$https://tvfan.xxooo.cf/"},
 
 {"key":"csp_wogg_cli","name":"俊于┃玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 
