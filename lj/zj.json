@@ -158,7 +158,7 @@
 
 {"key":"drpy_js_趣盤搜","name":"夸克┃趣盘搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/funletu.js","quickSearch":1,"changeable":1,"timeout":60},
 
-{"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
 
 //官源影视
 
