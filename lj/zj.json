@@ -140,21 +140,21 @@
 
 {"key":"磁力熊","name":"磁力熊","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/磁力熊[磁].js"},
 
-{"key":"csp_New6v","name":"新6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","ext":"http://www.xb6v.com","timeout":30},
+{"key":"csp_New6v","name":"新6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","ext":"http://www.xb6v.com","timeout":60},
 
-{"key":"csp_SeedHub","name":"SeedHub┃磁力","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":30},
+{"key":"csp_SeedHub","name":"SeedHub┃磁力","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":60},
 
-{"key":"csp_KubaCL","name":"酷吧┃磁力","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":30},
+{"key":"csp_KubaCL","name":"酷吧┃磁力","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":60},
 
-{"key":"csp_MeijuTT","name":"美剧┃磁力","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":30},
+{"key":"csp_MeijuTT","name":"美剧┃磁力","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":60},
 
-{"key":"csp_MeijuMi","name":"美剧迷┃磁力","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","filterable":1,"timeout":30},
+{"key":"csp_MeijuMi","name":"美剧迷┃磁力","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","filterable":1,"timeout":60},
 
-{"key":"4KHDR","name":"世界磁力┃慎用","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js","timeout":30},
+{"key":"4KHDR","name":"世界磁力┃慎用","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js","timeout":60},
 
-{"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/","timeout":30},
+{"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/","timeout":60},
 
-{"key":"drpy_js_趣盤搜","name":"夸克┃趣盘搜","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/funletu.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"drpy_js_趣盤搜","name":"夸克┃趣盘搜","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/funletu.js","quickSearch":1,"changeable":1,"timeout":60},
 
 //官源影视
 
