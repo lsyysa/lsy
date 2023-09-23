@@ -200,6 +200,8 @@
 
 {"key":"timizy","name":"甜蜜┃资源 ","type":1,"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
+{"key":"仓库","name":"仓库影院┃追剧","type":3,"api":"csp_XBPQ","ext":{"站名":"仓库影视","主页url":"http://761hsck.cc","数组":"class=\"stui-vodlist__box\">&&</a","链接":"href=\"&&\"","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"class=\"pic-text text-right\">&&</span>","分类url":"http://761hsck.cc/vodtype/{cateId}-{catePg}.html","分类":"无码Aⅴ$10#国产AV$15#有码$9#欧美$21"},"jar":"http://xhww.fun:63/小米/2.jar"},
+
 //
 
 {"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/921.jar"},
