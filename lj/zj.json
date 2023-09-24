@@ -187,7 +187,7 @@
 
 //阿里搜索
 
-{"key":"Hdhive","name":"影巢|搜索","type":3,"api":"csp_Hdhive","jar":"./jar/fm.jar","ext":""},  
+{"key":"Hdhive","name":"影巢|搜索","type":3,"api":"csp_Hdhive","jar":"./jar/fm.jar;md5;5597c244941056a2a9de5e56eee18550","ext":""},  
   
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|fhd|auto"},
 
