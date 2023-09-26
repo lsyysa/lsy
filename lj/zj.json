@@ -85,8 +85,6 @@
 
 {"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 
-{"key":"奇奇","name":"奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/","timeout":30},
-
 {"key":"蚂蚁","name":"蚂蚁┃直连","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 
 {"key":"哈喽","name":"迷你库┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -94,8 +92,6 @@
 {"key":"maolv_open","name":"影视┃毛驴","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar","timeout":15},
 
 {"key":"鸭奈飞","name":"鸭奈飞┃App","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/鸭奈飞影视.json","jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5","timeout":30},
-
-{"key":"csp_YQKAPP","name":"一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","timeout":30},
 
 {"key":"csp_kuaikan","name":"快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 
@@ -119,15 +115,9 @@
 
 {"key":"csp_Auete","name":"奥特┃直连","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 
-{"key":"csp_Dy1010","name":"双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-
 {"key":"csp_zxzj","name":"在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/","timeout":30},
 
-{"key":"csp_Lgyy","name":"蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip","timeout":30},
-
 {"key":"csp_Ysgc","name":"工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip","timeout":30},
-
-{"key":"csp_555","name":"555┃直连","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","timeout":30},
 
 {"key":"csp_Xinsj","name":"视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/","timeout":30},
 
@@ -255,7 +245,7 @@
 
 {"key":"有声小说js","name":"有声┃小说","type":3,"api":"./lib/drpy.min.js","ext":"./lib/有声小说吧.js","searchable":1,"quickSearch":0,"filterable":0},
 
-{"key":"push_agent","name":"推送 | lf_push","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent1_5_min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|auto|fhd"},
+//{"key":"push_agent","name":"推送 | lf_push","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_pushagent1_5_min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|auto|fhd"},
   
 {"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json","jar":"./jar/pg.jar;md5;02a65fda9facfe6907d4b7583cd085ff"},
 
