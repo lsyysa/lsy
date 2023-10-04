@@ -1,6 +1,6 @@
 {
 
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8960305db3cdfcb9842298cc39959c11",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
 "wallpaper": "https://www.0701.gq/api/img.php",
 
 "sites": [
@@ -52,6 +52,7 @@
 {"key":"Mino","name":"Mino┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
 {"key":"橘子","name":"橘子┃直连","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"},
 {"key":"熊猫","name":"熊猫┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"<p>&&</p>","主演":"主演：class=\"module-info-item-title\">&&</span>","导演":"导演：&&</span>","影片年代":"年份：&&</li>","影片地区":"地区：&&</li>","影片类型":"类型：&&</li>","影片状态":"更新：&&</span>","数组":"<a&&</div></div></a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"<div class=\"module-item-note\">&&</div>","线路数组":"data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题":"<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组":"<div class=\"module-play-list\">&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","播放链接":"href=\"&&\"","分类":"电影&电视剧&综艺&动漫","分类值":"52&69&77&75","分类url":"https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+{"key":"酷酷","name":"酷酷┃App","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://smallmi.xiaohewanwan.love:63/ky.js"},
 {"key":"陌陌","name":"蘑菇┃直连","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/","timeout":30},
 {"key":"csp_biubiu_素白白┃蓝光","name":"素白白┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/素白白影视.json","timeout":15},
 {"key":"csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
@@ -240,10 +241,10 @@
 
 "lives": [
   
-{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
-{"name":"自启•xx","type":0,"url":"./lib/zbip.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":5},
-{"name":"Global•直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
-{"name":"初秋语•综合","type":0,"url":"./lib/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":5},
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"自启•xx","type":0,"url":"./lib/zbip.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10},
+{"name":"Global•直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"初秋语•综合","type":0,"url":"./lib/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"直播1","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/leosam1024/tvbox/main/live/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"直播2","type":0,"url":"https://agit.ai/ddx/TVBox/raw/branch/master/js/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
