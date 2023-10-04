@@ -5,7 +5,7 @@
 
 "sites": [
 
-{"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://drpy.cainisi.cf/js/drpy.js"},
+{"key":"豆瓣","name":"豆瓣┃推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"路飞.搜索","name":"路飞搜索","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/ss.js","ext":""},
 {"key":"csp_Alistxy","name":"Alist┃网盘","type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},{"name":"💃小雅搜索2","server":"http://112.10.205.74:5678","version":3},{"name":"💃小雅搜索3","server":"http://182.120.114.23:5678","version":3},{"name":"💃小雅搜索4","server":"https://222.248.200.97:8765","version":3}]}},
 
