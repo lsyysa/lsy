@@ -102,6 +102,7 @@
 {"key":"csp_BLSGod","name":"80S影视┃磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
 {"key":"csp_Xunlei8","name":"迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
 {"key":"4KHDR","name":"4KHDR┃磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/4khdr.js"},
+{"key":"B站影视","name":"B站影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/4k超前.js","searchable":1,"quickSearch":1,"filterable":1},
 
 //官源影视
 
