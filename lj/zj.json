@@ -24,6 +24,7 @@
 {"key":"姐姐","name":"玩偶┃姐姐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
 
 //采集资源
+{"key":"布雷","name":"布雷┃影视","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js","searchable":1,"changeable":1},
 {"key":"影視","name":"影視[嫖他]","type":3,"api":"csp_YingShi"},
 {"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
 {"key":"快看","name":"快看┃影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/cat/kkys_open.js","searchable":1,"changeable":1},
@@ -95,7 +96,11 @@
 {"key":"4KHDR","name":"世界磁力┃慎用","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js","timeout":60},
 {"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/","timeout":60},
 {"key":"drpy_js_趣盤搜","name":"夸克┃趣盘搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/funletu.js","quickSearch":1,"changeable":1,"timeout":60},
-{"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"drpy_js_愛盤搜","name":"夸克┃爱盘搜[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"ali_cli","name":"阿里聚合搜┃cli","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"changeable":1,"playerType":2,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","style":{"type":"rect","ratio":1.597}},
+{"key":"Mp4Mov","name":"Mp4电影┃磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Mp4us.js","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BLSGod","name":"80S影视┃磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
+{"key":"csp_Xunlei8","name":"迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
 
 //官源影视
 
