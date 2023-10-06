@@ -36,7 +36,7 @@
             "ext": "https://qu.ax/qZmf.js"
         },
 {"key":"布雷","name":"布雷┃影视","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js","searchable":1,"changeable":1},
-{"key":"drpy_js_moflix影视","name":"moflix┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/moflix.js"},
+{"key":"moflix影视","name":"moflix┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/moflix.js"},
 {"key":"csp_好戏","name":"好戏影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/好戏影视.json","jar":"http://rihou.vip:88/hccx/HeChengChaXiu.jar"},
 {"key":"影視","name":"影視[嫖他]","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_YingShi"},
 {"key":"畅梦","name":"畅梦┃秒播","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
