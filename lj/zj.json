@@ -25,6 +25,7 @@
 
 //采集资源
 {"key":"布雷","name":"布雷┃影视","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js","searchable":1,"changeable":1},
+{"key":"drpy_js_moflix影视","name":"moflix┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/moflix.js"},
 {"key":"影視","name":"影視[嫖他]","type":3,"api":"csp_YingShi"},
 {"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
 {"key":"快看","name":"快看┃影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/cat/kkys_open.js","searchable":1,"changeable":1},
@@ -192,6 +193,7 @@
 {"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 {"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"777+","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"jsonplayer","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"咸鱼","type":0,"url":"https://jx.xyflv.com/?url="},
 {"name":"盘古","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
