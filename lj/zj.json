@@ -48,7 +48,8 @@
 {"key":"酷云七七","name":"影视┃酷云七七[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js","timeout":30},
 {"key":"modu","name":"采集┃魔都 ","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"SNzy","name":"采集┃索尼","type":1,"style":{"type":"rect","ratio":1.433},"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
-
+{"key": "yp","name": "YP┃采集","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+  
 //直连app
   
 {"key":"追忆","name":"追忆┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
@@ -57,9 +58,9 @@
 {"key":"熊猫","name":"熊猫┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"<p>&&</p>","主演":"主演：class=\"module-info-item-title\">&&</span>","导演":"导演：&&</span>","影片年代":"年份：&&</li>","影片地区":"地区：&&</li>","影片类型":"类型：&&</li>","影片状态":"更新：&&</span>","数组":"<a&&</div></div></a>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","链接":"href=\"&&\"","副标题":"<div class=\"module-item-note\">&&</div>","线路数组":"data-dropdown-value=&&</div>[排序:索尼>快看]","线路标题":"<span>&&</small>[替换:</span><small>>>🐼共]+集","播放数组":"<div class=\"module-play-list\">&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","播放链接":"href=\"&&\"","分类":"电影&电视剧&综艺&动漫","分类值":"52&69&77&75","分类url":"https://xmvod520.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 {"key":"酷酷","name":"酷酷┃App","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://smallmi.xiaohewanwan.love:63/ky.js"},
 {"key":"陌陌","name":"蘑菇┃直连","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/","timeout":30},
-{"key":"csp_biubiu_素白白┃蓝光","name":"素白白┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/素白白影视.json","timeout":15},
+{"key":"素白白","name":"素白白┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/素白白.json","timeout":15},
 {"key":"csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
-{"key":"csp_XYQHiker_乐猪影视","name":"乐猪┃影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/乐猪TV.json","jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"乐猪影视","name":"乐猪┃影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/乐猪TV.json","jar":"./jar/XYQ.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key": "csp_fantuan","name": "假饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"请求头\":\"手机\",\"简介\":\"简介：&&</p>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"vtitle text-right\\\">&&</span>\",\"线路数组\":\"javascript:void(0);&&</li>\",\"线路标题\":\">&</a>\",\"播放数组\":\"id=\\\"con_playlist&&</ul>\",\"分类\":\"电影$dianying#电视剧$dianshiju#国产剧$guocanju#综艺$zongyi#动漫$dongman#美剧$oumeiju\",\"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"},
 {"key":"迪迪","name":"迪迪┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","timeout":30},
 {"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
@@ -85,6 +86,7 @@
 {"key":"csp_Nbys","name":"泥巴┃挂梯","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"星星","name":"星星┃挂梯","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
 {"key":"獨播","name":"獨播┃挂梯","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json","jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a"},
+{"key":"csp_XBPQ_miniju","name":"迷你剧┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html","分类":"短剧$20#电影$22#电视剧$21#动漫$23#综艺$24"}},
 
 //磁力资源
 
@@ -100,10 +102,8 @@
 {"key":"drpy_js_趣盤搜","name":"夸克┃趣盘搜","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"./lib/funletu.js","quickSearch":1,"changeable":1,"timeout":60},
 {"key":"drpy_js_愛盤搜","name":"夸克┃爱盘搜[js]","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
 {"key":"ali_cli","name":"阿里聚合搜┃cli","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"changeable":1,"playerType":2,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","style":{"type":"rect","ratio":1.597}},
-{"key":"Mp4Mov","name":"Mp4电影┃磁力","type":3,"api":"./drpy2.min.js","ext":"./lib/Mp4us.js","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BLSGod","name":"80S影视┃磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
 {"key":"csp_Xunlei8","name":"迅雷┃磁力","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar"},
-{"key":"B站影视","name":"B站影视","type":3,"api":"./drpy2.min.js","ext":"./lib/4k超前.js","searchable":1,"quickSearch":1,"filterable":1},
 
 //官源影视
 
@@ -114,9 +114,6 @@
 {"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/百忙无果.js","timeout":30},
 {"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js","timeout":30},
 {"key":"csp_SP33","name":"360┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"timeout":30},
-{"key":"Qtv","name":"腾讯┃解析","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":30},
-{"key":"Itv","name":"爱奇艺┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0,"timeout":30},
-{"key":"Mtv","name":"芒果┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":30},
 
 //阿里搜索
 
