@@ -54,7 +54,7 @@
 {"key": "csp_AppYsV2_4K视界","name": "视界┃2K","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://yycms.77ev.cn/api.php/app/"},
 {"key":"yqkan_open","name":"短剧┃2K","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"},
 {"key": "qhzy","name": "夸克┃资源 ","type": 1,"api": "http://kuakezy1.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"drpy_js_aoao","name":"嗷嗷┃影视","type":3,"style":{"type":"rect","ratio":1.433},"api":"./lib/drpy2.min.js","ext":"./lib/aoao.js","jar":"./jar/fm.jar"},
+{"key":"drpy_js_aoao","name":"嗷嗷┃影视","type":3,"style":{"type":"rect","ratio":1.433},"api":"./lib/drpy2.min.js","ext":"./lib/aoao.js"},
 //直连app
   
 {"key":"追忆","name":"追忆┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
