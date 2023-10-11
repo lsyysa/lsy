@@ -135,7 +135,7 @@
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
 //
-{"key":"jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101102.jar","ext":  {"danmu": true}}
+{"key":"jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101102.jar","ext":  {"danmu": true}},
 {"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101102.jar"},  
 {"key":"drpy_js_我的哔哩","name":"弹幕┃哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/哔哩直播.js"},
