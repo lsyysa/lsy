@@ -1,6 +1,6 @@
 {
 
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
 "wallpaper": "https://www.0701.gq/api/img.php",
 
 "sites": [
@@ -187,7 +187,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"神秘的哥哥们","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
-{"name":"milaitv","type":0,"url":"http://42.51.37.161:5678/json/520239app9/gf2.php?url="},
+{"name":"milaitv","type":1,"url":"http://42.51.37.161:5678/json/520239app9/gf2.php?url="},
 {"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"37","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"js","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
