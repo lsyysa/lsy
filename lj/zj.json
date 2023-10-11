@@ -161,7 +161,7 @@
 {"key":"路飞转点播","name":"路飞┃MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt","viewType":2},
 {"key":"聚短视频js","name":"聚短┃视频","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js"},
 {"key":"有声小说js","name":"有声┃小说","type":3,"api":"./lib/drpy.min.js","ext":"./lib/有声小说吧.js","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json","jar":"./jar/fm.jar"},
+{"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","jar":"./jar/fm.jar"},
 {"key":"美食","name":"口水┃美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/美食合集.json"},
 {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 
