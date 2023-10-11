@@ -16,13 +16,13 @@
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style":{"type": "rect","ratio":3.8}},
 
 {"key":"csp_WoGG","name":"玩偶┃饭","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
-{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar":"./jar/fm.jar","searchable":1,"changeable":0,"ext":"./open_token.json$$$https://wogg.xyz/"},
+{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar":"./jar/fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$https://wogg.xyz/"},
 {"key":"csp_wogg_cli","name":"俊于┃玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 {"key":"小纸条_cli","name":"俊于┃小纸条[T4]","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
 {"key":"荐片","name":"俊于┃荐片[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"yc","name":"4KHDR┃阿里","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","jar":"./jar/fm.jar"},
 {"key":"姐姐","name":"玩偶┃姐姐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
-{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":"./open_token.json"},
+{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"},
 //采集资源
 {"key":"布雷","name":"布雷┃影视","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js","searchable":1,"changeable":1},
 {"key":"moflix影视","name":"moflix┃影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://qu.ax/qZmf.js"},
@@ -121,7 +121,7 @@
 
 //阿里搜索
 
-{"key":"Hdhive","name":"影巢|搜索","type":3,"api":"csp_Hdhive","jar":"./jar/fm.jar","ext":"./open_token.json"},  
+{"key":"Hdhive","name":"影巢|搜索","type":3,"api":"csp_Hdhive","jar":"./jar/fm.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json"},  
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|fhd|auto"},
 {"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
 {"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|fhd|auto"},
@@ -161,7 +161,7 @@
 {"key":"路飞转点播","name":"路飞┃MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/lf_live.txt","viewType":2},
 {"key":"聚短视频js","name":"聚短┃视频","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js"},
 {"key":"有声小说js","name":"有声┃小说","type":3,"api":"./lib/drpy.min.js","ext":"./lib/有声小说吧.js","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"./open_token.json","jar":"./jar/fm.jar"},
+{"key":"push_agent","name":"夸克推送.PG","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json","jar":"./jar/fm.jar"},
 {"key":"美食","name":"口水┃美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/美食合集.json"},
 {"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 
