@@ -41,7 +41,6 @@
 {"key":"星影1080cms","name":"星影1080┃APP","type":1,"api":"https://www.xy1080.net/api.php/provide/vod","searchable":1,"quickSearch":1,"timeout":15},
 {"key":"csp_cms_毛毛子","name":"采集┃毛子","type":1,"api":"http://ys.qtw.asia/lvdou_api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"timeout":30,"categories":["4K","电影","连续剧","综艺","动漫"]},
 {"key":"jszy","name":"采集┃极速 ","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"timeout":15},
-{"key":"drpy_js_大师兄影视","name":"影视┃大师兄影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大师兄影视.js"},
 {"key":"量子","name":"量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","timeout":30},
 {"key":"非凡","name":"影视┃非凡","type":"1","api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":"1","filterable":"1","changeable":"1","timeout":30,"categories":["国产剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},
 {"key":"两个BT","name":"两个BT┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"https://drpy.cainisi.cf/js/两个BT.js","timeout":15},
@@ -136,8 +135,8 @@
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
 //
-
-{"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/921.jar"},  
+{"key":"jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101102.jar","ext":  {"danmu": true}}
+{"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101102.jar"},  
 {"key":"drpy_js_我的哔哩","name":"弹幕┃哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/哔哩直播.js"},
 {"key":"drpy_js_哔哩影视","name":"弹幕┃哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.33},"changeable":0,"ext":"./lib/哔哩影视.js"},
