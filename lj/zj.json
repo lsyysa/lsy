@@ -25,7 +25,7 @@
 {"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 //采集资源
 
-{"key":"玉米[js]","name":"玉米[js]","api":"./lib/drpy2.min.js","type":3,"style":{"type":"rect","ratio":1.33},"ext":"./lib/ym.js"},
+{"key":"玉米[js]","name":"玉米[js]","api":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/lib/drpy2.min.js","type":3,"style":{"type":"rect","ratio":1.33},"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/lj/lib/ym.js"},
 {"key":"moflix影视","name":"moflix┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/moflix.js"},
 {"key":"csp_好戏","name":"好戏影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rihou.vip:88/hccx/好戏影视.json","jar":"http://rihou.vip:88/hccx/HeChengChaXiu.jar"},
 {"key":"影視","name":"影視[嫖他]","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_YingShi"},
