@@ -119,11 +119,11 @@
 //官源影视
 
 {"key":"drpy_js_360影视","name":"官源┃360","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/360影视.json","timeout":15},
-{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"https://pan.shangui.cc/f/411vu0/drpy2.min.js","ext":"https://pan.shangui.cc/f/Rppghz/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
-{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"https://pan.shangui.cc/f/411vu0/drpy2.min.js","ext":"https://pan.shangui.cc/f/lqqwtk/%E4%BC%98%E9%85%B7.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"https://pan.shangui.cc/f/411vu0/drpy2.min.js","ext":"https://pan.shangui.cc/f/GDDGhz/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
-{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"https://pan.shangui.cc/f/411vu0/drpy2.min.js","ext":"https://pan.shangui.cc/f/BDD3Up/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
-{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"https://pan.shangui.cc/f/411vu0/drpy2.min.js","ext":"https://pan.shangui.cc/f/kzzNuR/%E8%8F%9C%E7%8B%97.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./drpy2.min.js","ext":"./lib/"},
+{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./drpy2.min.js","ext":"https://pan.shangui.cc/f/lqqwtk/%E4%BC%98%E9%85%B7.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"./drpy2.min.js","ext":"https://pan.shangui.cc/f/GDDGhz/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
+{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./drpy2.min.js","ext":"https://pan.shangui.cc/f/BDD3Up/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
+{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./drpy2.min.js","ext":"./lib/菜狗.js"},
 {"key":"csp_SP33","name":"360┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"timeout":30},
 
 //阿里搜索
