@@ -47,7 +47,7 @@
 {"key":"酷云七七","name":"影视┃酷云七七[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js","timeout":30},
 {"key":"modu","name":"采集┃魔都 ","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"SNzy","name":"采集┃索尼","type":1,"style":{"type":"rect","ratio":1.433},"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","伦理片"]},
-{"key": "yp","name": "YP┃采集","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
+{"key": "yp","name": "YP┃采集","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["欧美剧","日韩剧","国产剧","电影"]},
 {"key":"五五","name":"555┃cat","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/555dy_open.js","searchable":1,"changeable":1}, 
 {"key":"App热剧","name":"剧猫┃js","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"},
 {"key": "csp_AppYsV2_4K视界","name": "视界┃2K","type": 3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://yycms.77ev.cn/api.php/app/"},
