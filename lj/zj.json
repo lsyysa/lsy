@@ -16,7 +16,7 @@
 {"key":"py_cctv","name":"中央┃CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/py_cctv.py"},
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style":{"type": "rect","ratio":3.8}},
 
-{"key":"csp_WoGG","name":"玩偶┃饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch": 1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt+4k|auto|fhd"},
+{"key":"csp_WoGG","name":"玩偶┃饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch": 1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 {"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar":"./jar/fm.jar","searchable":1,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt$$$https://wogg.xyz/"},
 {"key":"csp_wogg_cli","name":"俊于┃玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt"},
 {"key":"小纸条_cli","name":"俊于┃小纸条[T4]","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
@@ -137,11 +137,8 @@
 
 {"key":"19","name":"┃19┃视频","type":1,"api":"https://sousu.popefih902.repl.co/vod/19","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"timizy","name":"甜蜜┃资源 ","type":1,"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-{"key":"仓库","name":"仓库影院┃追剧","type":3,"api":"csp_XBPQ","ext":{"站名":"仓库影视","主页url":"http://761hsck.cc","数组":"class=\"stui-vodlist__box\">&&</a","链接":"href=\"&&\"","图片":"data-original=\"&&\"","标题":"title=\"&&\"","副标题":"class=\"pic-text text-right\">&&</span>","分类url":"http://761hsck.cc/vodtype/{cateId}-{catePg}.html","分类":"无码Aⅴ$10#国产AV$15#有码$9#欧美$21"},"jar":"http://xhww.fun:63/小米/2.jar"},
-{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
-{"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"style":{"type":"rect","ratio":1.33},"ext":"","jar":"./jar/fm.jar"},
 //
-{"key":"jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101103.jar","ext":  {"danmu": true}},
+{"key":"jojo弹幕直连","name":"JOJO弹幕版|直连","type":3,"jar":"http://111.67.195.139/yydf/lib/danmu.jar","api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 {"key":"sp360","name":"弹幕360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/101103.jar"},  
 {"key":"drpy_js_我的哔哩","name":"弹幕┃哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./lib/哔哩直播.js"},
