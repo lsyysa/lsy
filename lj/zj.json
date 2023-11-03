@@ -307,8 +307,8 @@
 {"name":"自启•txt","type":0,"url":"./lib/TXT.txt","playerType":1,"boot": true,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"cainisi","type":0,"url":"https://tvbox.cainisi.cf/TV","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/108.0.0.0 Safari/537.36","playerType":1},
 {"name":"live2","type":0,"url":"./lib/live2.txt","ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"酒店直播在线","type":0,"url":"https://tvzb.com/j.php?src=14.23.93.154:9901","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10},
-{"name":"巧计","url":"http://pandown.pro/tvbox/zhibo.txt"}
+{"name":"巧计","type":0,"url":"http://pandown.pro/tvbox/zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10},
+{"name":"直播3","url":"./lib/live005.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10}
 ],
 
 //解码模式
