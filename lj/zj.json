@@ -1,6 +1,6 @@
 {
 
-"spider": "https://raw.gitmirror.com/lsyysa/lsy/main/lj/jar/pg.jar",
+"spider": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 "wallpaper": "https://www.0701.gq/api/img.php",
 
 "sites": [
@@ -17,14 +17,14 @@
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style":{"type": "rect","ratio":3.8}},
 
 {"key":"csp_WoGG","name":"玩偶┃饭","type":3,"api":"csp_WoGG","searchable":1,"quickSearch": 1,"changeable":0,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt$$$http://tvfan.xxooo.cf/$$$弹"},
-{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","searchable":1,"changeable":1,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/lj/open_token.json$$$https://api.wogg.xyz/$$$null$$$1"},
+{"key":"csp_Wogg","name":"玩偶┃pg","type":3,"api":"csp_Wogg","jar": "./jar/pg.jar","searchable":1,"changeable":1,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/lj/open_token.json$$$https://api.wogg.xyz/$$$null$$$1"},
 {"key":"csp_wogg_cli","name":"俊于┃玩偶[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt"},
 {"key":"小纸条_cli","name":"俊于┃小纸条[T4]","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt","timeout":30},
 {"key":"荐片","name":"俊于┃荐片[T4]","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"荐片弹幕版","name":"荐片┃弹幕版","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.gitmirror.com/yydfys/yydf/main/yydf/928.jar"},
 {"key":"yc","name":"4KHDR┃阿里","type":3,"playerType":1,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lsyysa/lsy/main/tvfan/token.txt","jar":"./jar/fm.jar"},
 {"key":"姐姐","name":"玩偶┃姐姐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
-{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.gitmirror.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://raw.gitmirror.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
+{"key":"Wobg","name":"阿里|玩偶表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","ext":"https://raw.gitmirror.com/lsyysa/lsy/main/lj/open_token.json$$$http://wobge.run.goorm.io"},
 {"key":"直播转点播1","name":"T4┃直播.教学","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp16","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"直播转点播2","name":"T4┃直播.音乐","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"直播转点播3","name":"T4┃直播.综合","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp999","searchable":1,"quickSearch":1,"filterable":0},
