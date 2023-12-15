@@ -548,6 +548,22 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "玩偶ok佬",
+      "name": "玩偶哥哥|ok",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png;md5;024444F5BDB551B95CA5E9145348B899",
+      "ext": {
+        "token": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/tvfan/token.txt",
+        "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json",
+        "danmu": true
+      }
+    },
+
+    {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "👽 玩偶·香 ",
       "type": 3,
