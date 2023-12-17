@@ -169,6 +169,17 @@
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
+     {
+      "key": "996",
+      "name": "🍺996┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"
+      }
+    },
     {
       "key": "初见表哥",
       "name": "🍒白泽表哥",
