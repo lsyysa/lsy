@@ -1,0 +1,12 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "👦业余影视1203👦",
+            "sourceUrl": "clan://localhost/yydf/yydf.json"
+        },
+        {
+            "sourceName": "👦ok-pg影视专用👦",
+            "sourceUrl": "clan://localhost/yydf/yszy.json"
+        }
+    ]
+}
