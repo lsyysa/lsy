@@ -2,7 +2,7 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
     "wallpaper": "https://www.0701.gq/api/img.php",
     "lives": [
-	{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
 {"name":"自启•xx","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/lib/zbip.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10},
 {"name":"Global•直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
 {"name":"初秋语•综合","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/lib/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
@@ -172,7 +172,7 @@
                 "简介": "剧情：&&</div>",
                 "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
                 "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
-                "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+                "阿里token": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt",
                 "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
             }
         },
@@ -446,7 +446,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt"
         },
         {
             "key": "小纸条_cli",
@@ -456,7 +456,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt",
             "timeout": 30
         },
         {
@@ -511,7 +511,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://api.wogg.xyz/"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/tokenm.json$$$https://api.wogg.xyz/"
         },
         {
             "key": "Wobg",
@@ -526,7 +526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://wobge.run.goorm.io"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/tokenm.json$$$http://wobge.run.goorm.io"
         },
         {
             "key": "csp_WoGG",
@@ -536,7 +536,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt$$$https://api.wogg.xyz/$$$弹"
         },
         {
             "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -832,7 +832,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -842,7 +842,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -852,7 +852,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -862,7 +862,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -872,7 +872,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -882,7 +882,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -891,7 +891,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt+4k|auto|fhd"
         },
         {
             "key": "Gitcafe",
@@ -903,7 +903,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_Zhaozyxyq",
@@ -915,7 +915,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt"
         },
         {
             "key": "csp_DiDuan",
