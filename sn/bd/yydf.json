@@ -528,6 +528,21 @@
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/tokenm.json$$$http://wobge.run.goorm.io"
         },
+	   {
+        "key": "玩偶弹幕版",
+        "name": "玩偶哥哥弹幕|ok",
+        "type": 3,
+        "api": "csp_Wogg",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 0,
+	"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png",
+        "ext": {
+        "token": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/sn/XYQTVBox/alitoken.txt",
+        "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json",
+        "danmu": true
+      }
+    },
         {
             "key": "csp_WoGG",
             "name": "👽 玩偶·饭 ",
