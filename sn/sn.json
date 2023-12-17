@@ -126,24 +126,6 @@
       ]
     },
     {
-      "key": "业余采集B",
-      "name": "♻ 私营 ",
-      "type": 1,
-      "api": "http://yydf.kele.plus/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "短剧",
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "体育赛事"
-      ]
-    },
-    {
       "key": "春哥☆自营",
       "name": "💕春哥☆自营 ",
       "type": 1,
