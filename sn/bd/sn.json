@@ -78,7 +78,7 @@
             "filterable": 0,
             "api": "./yydf/lf_search3_min.js"
         },
-	{"key":"py_baby","name":"宝宝┃合集","type":3,"api":"py_baby","searchable":1,"quickSearch":1,"filterable":1, "jar": "./jar/yydf.jar","ext":"./yydf/baby.py"},
+	{"key":"py_baby","name":"宝宝┃合集","type":3,"api":"py_baby","searchable":1,"quickSearch":1,"filterable":1, "jar": "./jar/fan.jar","ext":"./yydf/baby.py"},
         {
             "key": "應用商店",
             "name": "🍱 应用商店 ",
