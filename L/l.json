@@ -154,7 +154,7 @@
   {"key":"小学","name":"🌏 小学教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩哔哩小学.json"},
   {"key":"初中","name":"🌏 初中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩哔哩初中.json"},
   {"key":"高中","name":"🌏 高中教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩哔哩高中.json"},
-  {"key":"csp_Bili","name":"🌏 动物世界","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/吾爱动物世界.json"},
+  {"key":"csp_Bili","name":"🌏 动物世界","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/吾爱动物世界.json"}
 	],
 	
 	
