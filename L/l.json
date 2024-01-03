@@ -26,7 +26,7 @@
 	"sites": 
 	[
 	  {"key":"豆豆","name":"️♻️豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-          {"key":"lf_js_search","name":"🧠 路飞|搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./js/lf_search3_min.js"},
+    {"key":"lf_js_search","name":"🧠 路飞|搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./js/lf_search3_min.js"},
 	  {"key":"py_sport","name":"体育直播","type":4,"api":"https://api.azure.leuse.top/PythonT4/sport","searchable":0,"quickSearch":0,"filterable":0},
 	  {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","jar": "./jar/fan.jar;md5;f8e21d60027d5d4f9e287be44f192c3f","searchable":0,"quickSearch":0,"changeable":0},
 	  {"key":"FirstAid","name":"🚑 急救知识 ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
@@ -38,11 +38,11 @@
 	  {"key":"csp_XYQHikerAL_玩偶哥哥","name":"👽 玩偶·香 ","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/玩偶哥哥.json"},
 	  {"key":"Wobg","name":"👽 玩偶表哥.PG","type":3,"style":{"type":"rect","ratio":1.597},"jar":"./jar/pg.jar;md5;6633b55ad0494d70281c024fbd5f0b30","api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://wobge.run.goorm.io"},
 	  {"key":"直播转点播1","name":"⛳ 直播.教学T4 ","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp16","searchable":1,"quickSearch":1,"filterable":0},
-          {"key":"直播转点播2","name":"🎹 直播.音乐T4 ","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
-          {"key":"直播转点播3","name":"🎨 直播.综合T4 ","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp999","searchable":1,"quickSearch":1,"filterable":0},
-          {"key":"csp_woggcli","name":"👽 玩偶·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-          {"key":"小纸条_cli","name":"📝 小纸条·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","timeout":30},
-          {"key":"荐片","name":"荐片·T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+    {"key":"直播转点播2","name":"🎹 直播.音乐T4 ","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"直播转点播3","name":"🎨 直播.综合T4 ","type":4,"style":{"type":"rect","ratio":1.597},"api":"http://120.53.102.254/dsp999","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_woggcli","name":"👽 玩偶·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+    {"key":"小纸条_cli","name":"📝 小纸条·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","timeout":30},
+    {"key":"荐片","name":"荐片·T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 	{
             "key": "初见表哥",
             "name": "🍒白泽表哥",
