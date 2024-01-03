@@ -1,7 +1,7 @@
 {
-	"spider": "./jar/yydf.jar",
-	"wallpaper": "https://www.0701.gq/api/img.php",
-	"lives": 			
+"spider": "./jar/yydf.jar",
+"wallpaper": "https://www.0701.gq/api/img.php",
+"lives": 			
 	[
     {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
     {"name":"自启•xx","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/lj/lib/zbip.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","boot": true,"timeout":10},
