@@ -1,5 +1,5 @@
 {
-"spider": "./jar/yydf.jar",
+"spider": "./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840",
 "wallpaper": "https://www.0701.gq/api/img.php",
 "lives": 			
 [
@@ -85,11 +85,9 @@
 {"key":"繁星","name":"💥繁星┃App","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.jar;md5;f8e21d60027d5d4f9e287be44f192c3f","ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.jar;md5;f8e21d60027d5d4f9e287be44f192c3f","ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
-{"key":"jian片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;6e4947ff8d80fcefa8ee4bdca74323e8"},
 {"key":"毛驴","name":"👉毛驴┃影视","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.jar;md5;f8e21d60027d5d4f9e287be44f192c3f","ext":"https://www.maolvys.com/"},
 
 {"key":"暴風","name":"暴風丨采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25},
-{"key":"快帆","name":"快帆丨采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25},
 {"key":"SNzy","name":"索尼┃资源 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","足球","预告片","影视解说"]},
 {"key":"快车资源","name":"快车.云播","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","战争片","动作片","香港剧"]},
 {"key":"卧龙资源","name":"卧龙.云播","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
