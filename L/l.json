@@ -62,10 +62,14 @@
 {"key":"csp_短剧网香","name":"🔥 短剧网 ","type":3,"api":"csp_XYQHiker","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/短剧网.json"},
 
 {"key":"996","name":"🍺996┃影视","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar","ext":{"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"}},
-{"key":"采集A","name":"♻ 云自营 ","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","电视剧","动漫","综艺","记录片","音乐","影视解说","体育"]},
-{"key":"春哥☆自营","name":"💕春哥☆自营 ","type":1,"api":"http://mfsj.kele.plus/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","连续剧","少儿","动漫","综艺","体育赛事"]},
+
 {"key":"black","name":"✌小胡自营","type":1,"playerType":1,"api":"http://c.小胡.icu/api.php/provide/vod/"},
 {"key":"开心香港自营","name":"🎦开心自营 ","type":1,"api":"http://www.ttkx.site/api.php/provide/vod/","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","战争片","国产剧","港台剧","日韩剧","欧美剧","国产动漫","日韩动漫","港台动漫","动画片","短剧","国产综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","灾难片","悬疑片","犯罪片","奇幻片","纪录片"]},
+{"key":"49zy","name":"49┃资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["电影","国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
+{"key":"采集A","name":"♻ 云自营 ","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","电视剧","动漫","综艺","记录片","音乐","影视解说","体育"]},
+{"key":"暴風","name":"暴風丨采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25},
+{"key":"SNzy","name":"索尼┃资源 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","足球","预告片","影视解说"]},
+
 {"key":"csp_XYQHiker_爱看影视","name":"✨ 爱看 ","type":3,"api":"csp_XYQHiker","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看影院.json"},
 {"key":"360yingshi","name":"🌻 360影视 ","type":3,"api":"./js/drpy2.min.js","ext":"./js/360yinshi.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"Czsapp","name":"📔 厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
@@ -82,9 +86,7 @@
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
 {"key":"毛驴","name":"👉毛驴┃影视","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
- 
-{"key":"暴風","name":"暴風丨采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25},
-{"key":"SNzy","name":"索尼┃资源 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","足球","预告片","影视解说"]},
+
 {"key":"快车资源","name":"快车.云播","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","战争片","动作片","香港剧"]},
 {"key":"卧龙资源","name":"卧龙.云播","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
 {"key":"光速资源","name":"光速.云播","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["大陆剧","港澳剧","综艺","动漫"]},
@@ -116,6 +118,7 @@
 {"key":"csp_Mp4Mov","name":"🧲Mp4电影 ","type":3,"api":"csp_Mp4Mov","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_New6v","name":"🧲新6V ","type":3,"api":"csp_New6v","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 
+{"key":"modu","name":"动漫┃魔都 ","type":1,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌 动漫巴士1 ","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Excel教程","name":"🎨 吾爱Excel ","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/Excel教程.json"},
