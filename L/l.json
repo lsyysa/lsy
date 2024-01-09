@@ -39,7 +39,7 @@
 {"key":"影视车","name":"网盘|影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/pg.jar;md5;ffa30cb3289ee39a479741ea8b4c511f","ext":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.weixine.net/$$$1$$$./json/wogg.json","timeout":30},
 {"key":"Ppxzy","name":"网盘|皮皮虾","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"jar":"./jar/pg.jar;md5;ffa30cb3289ee39a479741ea8b4c511f","ext":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://ppxzy.net/$$$null","timeout":30},
 {"key":"Wobg","name":"网盘|表哥","type":3,"style":{"type":"rect","ratio":1.597},"jar":"./jar/pg.jar;md5;ffa30cb3289ee39a479741ea8b4c511f","api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://wobge.run.goorm.io"},
-
+{"key":"py_ali","name":"阿里集成·Py版","type":3,"api":"./js/py_ali.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","thread":"32"}},
 {
 "key": "初见表哥",
 "name": "白泽表哥",
@@ -62,6 +62,19 @@
 "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
 }
 },
+{
+            "key": "耐看",
+            "name": "耐看┃自建",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840",
+            "ext": {
+                "分类数组": "swiper-wrapper\"*&&</ul>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
+                "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
+            }
+        },
 {"key":"短劇","name":"短劇","type":3,"api":"csp_Duanju","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"changeable":0},
 {"key":"csp_短剧网香","name":"短剧网 ","type":3,"api":"csp_XYQHiker","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/短剧网.json"},
 
