@@ -133,6 +133,7 @@
 {"key":"Gitcafe","name":"小纸条(搜索) ","type":3,"api":"csp_Gitcafe","playerType":1,"jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"},
 
+{"key":"路飞磁力","name":"路飞·磁力","type":3,"api":"./js/lf_p2p2_min.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"ext":"18+","timeout": 30},
 {"key":"csp_Mp4Mov","name":"Mp4电影 ","type":3,"api":"csp_Mp4Mov","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_New6v","name":"新6V ","type":3,"api":"csp_New6v","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 
