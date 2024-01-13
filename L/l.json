@@ -88,7 +88,7 @@
 {"key":"暴風","name":"暴風丨采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25},
 {"key":"SNzy","name":"索尼┃资源 ","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/json","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","足球","预告片","影视解说"]},
 {"key":"csp_Ikanbot","name":"爱看┃Ikanbot","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js","timeout":15},
- 
+{"key":"圣城","name":"圣城┃js","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/SC1080.js","timeout":15}, 
 {"key":"csp_XYQHiker_爱看影视","name":"爱看 ","type":3,"api":"csp_XYQHiker","jar":"./jar/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看影院.json"},
 {"key":"360yingshi","name":"360影视 ","type":3,"api":"./js/drpy2.min.js","ext":"./js/360yinshi.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
