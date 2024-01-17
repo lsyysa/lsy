@@ -26,7 +26,7 @@
 {"key":"豆豆","name":"️豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"lf_js_search","name":"路飞|搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./js/lf_search3_min.js"},
 {"key":"py_sport","name":"体育直播","type":4,"api":"https://api.azure.leuse.top/PythonT4/sport","searchable":0,"quickSearch":0,"filterable":0,"ext": {"json": "https://ghproxy.net/https://raw.githubusercontent.com/lsyysa/lsy/main/L/js/bili.json"}},
-{"key":"py_freezb","name":"体育直播·py","type":3,"api":"./js/py_sport.py","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./js/tokenm.json"},
 {"key":"YGP","name":"叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"FirstAid","name":"急救┃知识 ","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"ysjd","name":"央视┃经典","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/央视经典.json"},
