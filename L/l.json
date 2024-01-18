@@ -41,6 +41,7 @@
 {"key":"py_ali","name":"阿里集成·Py版","type":3,"api":"./js/py_ali.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","thread":"32"}},
 {"key":"阿里云集合","name":"阿里集合·搜索","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./jar/zx.jar","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg.jar;md5;c99d099dbd863e665386647e6b13c96a","ext":"./js/tokenm.json$$$./js/alishare.txt"},
+{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d", "ext":"./js/tokenm.json$$$./js/quarkshare.txt"},
 {
             "key": "耐看",
             "name": "耐看┃自建",
@@ -102,7 +103,9 @@
 {"key":"csp_woggcli","name":"玩偶·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 {"key":"小纸条_cli","name":"小纸条·T4 ","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","timeout":30},
 {"key":"荐片","name":"荐片·T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"timeout":30}, 
-
+{"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d","ext":"./js/tokenm.json"},
+{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d","ext":"./js/tokenm.json"},
+{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30,"quickSearch":1, "changeable":1, "filterable":1,"jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d", "ext":"./js/tokenm.json"},
 {"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"},
 {"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 {"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"},
