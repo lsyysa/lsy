@@ -42,6 +42,7 @@
 {"key":"阿里云集合","name":"阿里集合·搜索","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./jar/zx.jar","ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg.jar;md5;c99d099dbd863e665386647e6b13c96a","ext":"./js/tokenm.json$$$./js/alishare.txt"},
 {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d", "ext":"./js/tokenm.json$$$./js/quarkshare.txt"},
+{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "jar":"./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d","ext":"./js/tokenm.json$$$https://www.libvio.pro$$$null"},
 {
             "key": "耐看",
             "name": "耐看┃自建",
